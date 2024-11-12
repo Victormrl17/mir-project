@@ -2,7 +2,7 @@
 
 This is a solution to the A storm of projects.
 
-## Table of contents
+## Table of contents 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
